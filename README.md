@@ -16,29 +16,29 @@ El programa dará inicio el sábado 3 de mayo y culminará el sábado 14 de juni
 A continuación, se presenta un calendario resumido de los temas. Los horarios detallados se encuentran disponibles en las secciones correspondientes a cada módulo, junto con la programación específica de sus respectivas actividades.
 
 ## **Semana 1** 
-| Fecha         | Día      | Horario       | Tema                            | Subtema                                                                                                                                                     |
-|---------------|----------|---------------|---------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 03 - 05       | Sábado   | 8:15 - 9:30  | Repaso práctico de fundamentos de Python | - Sintaxis básica, estructuras de control y funciones.<br>- Listas, diccionarios, tuplas y manejo de archivos.<br>- Automatización de tareas simples. |
-| 03 - 05       | Sábado   | 9:45 - 12:00  | Librerías para análisis de datos         | - Introducción y uso de `NumPy` para operaciones numéricas.<br>- Manipulación de datos con `Pandas`: Series, DataFrame, filtrado, ordenamiento y agrupamiento.<br>- Lectura y escritura de datos en formatos CSV, Excel y JSON. |
+| Fecha            | Día      | Horario       | Tema                            | Subtema                                                                                                                                                     |
+|-------------------|----------|---------------|---------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 03 mayo           | Sábado   | 8:15 - 9:30  | Repaso práctico de fundamentos de Python | - Sintaxis básica, estructuras de control y funciones.<br>- Listas, diccionarios, tuplas y manejo de archivos.<br>- Automatización de tareas simples. |
+| 03 mayo           | Sábado   | 9:45 - 12:00  | Librerías para análisis de datos         | - Introducción y uso de `NumPy` para operaciones numéricas.<br>- Manipulación de datos con `Pandas`: Series, DataFrame, filtrado, ordenamiento y agrupamiento.<br>- Lectura y escritura de datos en formatos CSV, Excel y JSON. |
 
 
 ## **Semana 2**
 | Fecha  | Día      | Horario       | Tema                               | Subtema                                                                                                                                                          |
 |--------|----------|---------------|------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 17 - 05 | Sábado   | 8:00 - 12:00  | Limpieza y transformación de datos | - Manejo de datos faltantes y duplicados.<br>- Reemplazo y transformación de valores.<br>- Creación de variables derivadas.                                       |
-| 17 - 05 | Sábado   | 8:00 - 12:00  | Visualización de datos             | - Gráficos con `Matplotlib`: líneas, barras, histogramas.<br>- Visualizaciones avanzadas con `Seaborn`: boxplots, heatmaps, pairplots.<br>- Personalización de gráficos: títulos, etiquetas y estilos. |
+| 17 mayo | Sábado   | 8:00 - 12:00  | Limpieza y transformación de datos | - Manejo de datos faltantes y duplicados.<br>- Reemplazo y transformación de valores.<br>- Creación de variables derivadas.                                       |
+| 17 mayo | Sábado   | 8:00 - 12:00  | Visualización de datos             | - Gráficos con `Matplotlib`: líneas, barras, histogramas.<br>- Visualizaciones avanzadas con `Seaborn`: boxplots, heatmaps, pairplots.<br>- Personalización de gráficos: títulos, etiquetas y estilos. |
 
 ## **Semana 3**
 | Fecha   | Día      | Horario      | Tema                              | Subtema                                                                                                                                                   |
 |---------|----------|--------------|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 31 - 05 | Sábado   | 8:00 - 12:00 | Estadística descriptiva en Python | - Medidas de tendencia central y dispersión.<br>- Distribuciones de frecuencia.<br>- Análisis exploratorio de datos (EDA).                                |
-| 31 - 05 | Sábado   | 8:00 - 12:00 | Análisis de series temporales     | - Introducción al análisis de series temporales con `Pandas`.<br>- Conversión de datos de fecha y hora, y creación de índices temporales.<br>- Descomposición de series temporales: tendencia, estacionalidad y ruido. |
+| 31 mayo | Sábado   | 8:00 - 12:00 | Estadística descriptiva en Python | - Medidas de tendencia central y dispersión.<br>- Distribuciones de frecuencia.<br>- Análisis exploratorio de datos (EDA).                                |
+| 31 mayo | Sábado   | 8:00 - 12:00 | Análisis de series temporales     | - Introducción al análisis de series temporales con `Pandas`.<br>- Conversión de datos de fecha y hora, y creación de índices temporales.<br>- Descomposición de series temporales: tendencia, estacionalidad y ruido. |
 
 ## **Semana 4**
 | Fecha   | Día      | Horario      | Tema                                | Subtema                                                                                                                                                          |
 |---------|----------|--------------|-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 14 - 06 | Sábado   | 8:00 - 12:00 | Automatización de procesos de análisis | - Creación de scripts automatizados.<br>- Uso de funciones personalizadas para rutinas de análisis.<br>- Programación orientada a tareas repetitivas.            |
-| 14 - 06 | Sábado   | 8:00 - 12:00 | Evaluación y discusión de casos prácticos | - Análisis de un caso práctico utilizando todo lo aprendido en el curso.<br>- Discusión de resultados, interpretación de datos y elaboración de conclusiones.<br>- Revisión de buenas prácticas y optimización de código. |
+| 14 junio | Sábado   | 8:00 - 12:00 | Automatización de procesos de análisis | - Creación de scripts automatizados.<br>- Uso de funciones personalizadas para rutinas de análisis.<br>- Programación orientada a tareas repetitivas.            |
+| 14 junio | Sábado   | 8:00 - 12:00 | Evaluación y discusión de casos prácticos | - Análisis de un caso práctico utilizando todo lo aprendido en el curso.<br>- Discusión de resultados, interpretación de datos y elaboración de conclusiones.<br>- Revisión de buenas prácticas y optimización de código. |
 
 
 ## **Indicaciones**
