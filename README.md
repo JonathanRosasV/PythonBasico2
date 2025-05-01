@@ -43,7 +43,7 @@ A continuación, se presenta un calendario resumido de los temas. Los horarios d
 
 ## **Indicaciones**
 Indicaciones previas para el correcto desarrollo del curso :<br>
-1. El enlace de Zoom será el mismo para todas las sesiones:  [Link de zoom](https://zoom.us/j/4771998369?pwd=VFZXRlBSdHNES2JUcFRMenV1RVZhUT09). Podrán ingresar a partir de las<br>
+1. El enlace de Zoom será el mismo para todas las sesiones:  [Link de zoom](https://us02web.zoom.us/j/85470090377). Podrán ingresar a partir de las<br>
 2. La estructura de la clase será la siguiente:<br>
    * Inicio :  8:05 a.m - 9:30 a.m
    * Break  :  9:30 a.m - 9:45 a.m 
