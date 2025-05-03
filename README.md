@@ -18,8 +18,8 @@ A continuación, se presenta un calendario resumido de los temas. Los horarios d
 ## **Semana 1** 
 | Fecha            | Día      | Horario       | Tema                            | Subtema                                                                                                                                                     |
 |-------------------|----------|---------------|---------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 03 mayo           | Sábado   | 8:15 - 9:30  | Repaso práctico de fundamentos de Python | - Sintaxis básica, estructuras de control y funciones.<br>- Listas, diccionarios, tuplas y manejo de archivos.<br>- Automatización de tareas simples. |
-| 03 mayo           | Sábado   | 9:45 - 12:00  | Librerías para análisis de datos         | - Introducción y uso de `NumPy` para operaciones numéricas.<br>- Manipulación de datos con `Pandas`: Series, DataFrame, filtrado, ordenamiento y agrupamiento.<br>- Lectura y escritura de datos en formatos CSV, Excel y JSON. |
+| 03 mayo           | Sábado   | 8:15 - 9:30  | Repaso práctico de fundamentos de Python | - Sintaxis básica, estructuras de control y funciones.<br>- Listas, diccionarios, tuplas y manejo de archivos. |
+| 03 mayo           | Sábado   | 9:45 - 12:00  | Librerías para análisis de datos         | - Introducción y uso de `NumPy` para operaciones numéricas.<br>- Manipulación de datos con `Pandas`: Series, DataFrame, filtrado, ordenamiento y agrupamiento.<br>- Lectura y escritura de datos en formatos CSV, Excel y dta. |
 
 
 ## **Semana 2**
